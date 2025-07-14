@@ -1,0 +1,5 @@
+Faker==37.4.0
+matplotlib==3.10.3
+pandas==2.3.1
+seaborn==0.13.2
+jp
